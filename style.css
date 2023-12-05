@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    background-color:gold;
+}
+.List{
+    text-align: left;
+    background-color: sandybrown;
+    font-style: italic;
+}
+#lasagna{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+#fish{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+p{
+    text-align: left;
+    color: black;
+    font-style: normal;
+}
+ul{
+    text-align: justify;
+    background-color: beige;
+}
+ol{
+    text-align: justify;
+    background-color: blanchedalmond;
+}
